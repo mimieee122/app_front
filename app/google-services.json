@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "263504974872",
+    "firebase_url": "https://honbobchating-default-rtdb.firebaseio.com",
+    "project_id": "honbobchating",
+    "storage_bucket": "honbobchating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263504974872:android:680c9ff9b25ea47adf5f6d",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXW23QYG-yQP14ATZwSZvjJK0pAhDJao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263504974872:android:a1370b22e2e6701ddf5f6d",
+        "android_client_info": {
+          "package_name": "com.example.hiandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXW23QYG-yQP14ATZwSZvjJK0pAhDJao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
